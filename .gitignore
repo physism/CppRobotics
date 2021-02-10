@@ -1,5 +1,6 @@
 build
 bin
 .vscode
+.vs
 code-server
 deploy.sh
